@@ -4,7 +4,8 @@
             "id": 1,
             "name": "test",
             "price": 2.00,
-            "image": "https://via.placeholder.com/250x150?text=Laptop+X1"
+            "image": "https://via.placeholder.com/250x150?text=Laptop+X1",
+            "email": "example@example.com"
         }
     ]
 }
